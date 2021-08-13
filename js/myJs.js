@@ -1,18 +1,18 @@
 const textConfig = {
-  text1: "He luu cậu!",
-  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Cậu yêu tớ có phải không nào ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
-  text5: "Cậu mơ à???",
-  text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
-  text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text1: "Hewwo QwQ",
+  text2: "Tui mới nghịch được cái này nè thử xem có gì vui không á :))",
+  text3: "Nghịch thôi nhé bà đừng để ý nha :)). Bà vẫn đang xem movie đúng không á :))",
+  text4: "Nếu bà không trả lời mà thoát ra tức là chuẩn rồi đó nha :v",
+  text5: "Sai bét rồi ông :))",
+  text6: "Errrr? Sao ông biết hay thế :v",
+  text7: "Có gì để nhắn không bà QwQ",
+  text8: "Gửi cho tui <3",
+  text9: "Đừng bỏ gameeeee nhaaaaaaa",
+  text10: "Tui biết mà ^^ Còn lâu mới bỏ XD",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
+    "Còn giờ thì ngủ thooi~ Mai lại chiến game tiếp nhé XD",
   text12: "Okii lunn <3",
-};
+};https://www.facebook.com/CrushtoitenTran2510/
 
 $(document).ready(function () {
   // process bar
